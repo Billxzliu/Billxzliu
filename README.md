@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bill Liu, you can call me Bill, I'm currently a MSc student in UNSW.
 - 👀 My research area is robot vision and I would like to apply various vision algorithms to robotics and use them in industry.
-- ❗️ I’m looking for a Ph.D position in my research area.
+- ❗️ I’m looking for a Ph.D / RA / Visiting Student position in my research area.
 - 📫 You can find my email in my profile, please send me a follow-up if I don't reply you in 2 days
 - 🗣️ My [Homepage](https://billxzliu.github.io/) 
 
